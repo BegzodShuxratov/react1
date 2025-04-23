@@ -1,0 +1,90 @@
+.menu h4 {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 17.5%;
+    text-transform: uppercase;
+    color: #FF6868;
+    padding: 30px 0;
+}
+
+.menu h2 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 132%;
+    letter-spacing: 0%;
+    padding-bottom: 40px;
+}
+
+.menu {
+    padding-bottom: 40px;
+}
+
+.card2 {
+    box-shadow: 2px 9px 42px 0px #00000014;
+    width: 426px;
+    height: 451px;
+    border-radius: 40px;
+}
+
+.card2 p {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.card2 span {
+    padding-left: 40px;
+    color: gray;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.card2 img {
+    padding-left: 50px ;
+}
+
+.card2 h3 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.card2 h3 span{
+    font-size: 24px;    
+    color: red;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.right{
+    display: flex;
+    gap: 20px;
+}
+.right button:hover{
+    background-color: #39db4a;
+    color: white;
+}
+.right button{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
