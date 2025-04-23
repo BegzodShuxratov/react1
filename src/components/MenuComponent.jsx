@@ -1,7 +1,7 @@
 import React from 'react'
 import './Menu.css'
 
-export default function Menu() {
+export default function MenuComponent() {
   return (
     <div className='menu container'>
         <div className="ota">

@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import Customer from './components/Customer'
-import Menu from './components/menu'
+import MenuComponent from './components/MenuComponent'
 
 
 
@@ -11,8 +11,8 @@ export default function App() {
     <div>
       <Header />
       <Hero />
-      <Customer />
-      <Menu />
+      <Customer/>
+      <MenuComponent/>
     </div>
   )
 }
