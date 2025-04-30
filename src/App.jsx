@@ -3,6 +3,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Customer from './components/Customer'
 import MenuComponent from './components/MenuComponent'
+import Test from './components/Test'
 
 
 
@@ -13,6 +14,7 @@ export default function App() {
       <Hero />
       <Customer/>
       <MenuComponent/>
+      <Test />
     </div>
   )
 }

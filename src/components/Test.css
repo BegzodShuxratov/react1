@@ -1,0 +1,40 @@
+.otash {
+    padding: 30px;
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 0px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.right span {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 17.5%;
+    text-transform: uppercase;
+    color: #FF6868;
+}
+
+.right h2 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 131%;
+    letter-spacing: 0%;
+}
+
+.right p {
+    color: #555;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 159%;
+    letter-spacing: 0%;
+}
